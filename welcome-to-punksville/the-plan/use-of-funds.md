@@ -18,4 +18,4 @@ description: How we Intend to Use Funds Raised
 
 ### Punksville DAO Treasury - 100 ETH  &#x20;
 
-* Used for future purchases, rewards to Punksville members and provide base liquidity for the fractional vaults
+* Used to support the project, provide rewards to Punksville members, and provide base liquidity for the fractional vaults
