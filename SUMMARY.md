@@ -5,8 +5,9 @@
 * [👋 Introduction](README.md)
 * [🎯 The Plan](welcome-to-punksville/the-plan/README.md)
   * [💵 Use of Funds](welcome-to-punksville/the-plan/use-of-funds.md)
-* [🧟♂ Minting](welcome-to-punksville/minting.md)
-* [🧟♀ Staking](welcome-to-punksville/staking.md)
+* [❓ How it Works](welcome-to-punksville/how-it-works/README.md)
+  * [🧟♂ Minting](welcome-to-punksville/how-it-works/minting.md)
+  * [🧟♀ Staking](welcome-to-punksville/how-it-works/staking.md)
 * [👨👩👧👦 Meet the Team!](welcome-to-punksville/meet-the-team.md)
 
 ## 😎 New to NFTs
