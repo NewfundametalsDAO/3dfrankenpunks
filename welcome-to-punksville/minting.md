@@ -11,7 +11,9 @@ Minting is the process of creating Dr. ETHvils monstrosities. Simply put, it is 
 * Fully randomized, over 90 traits and 5 difference types you can get
 * Fair distribution, all will buy-in at the same price
 * 50% of the entire proceeds of the project are put into the DAO
-* Minting interface provided - https://mint.3dfrankenpunks.com
+* Minting interface provided&#x20;
+
+## MINTING WEBSITE HERE
 
 ## Contract Address:&#x20;
 

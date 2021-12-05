@@ -6,8 +6,8 @@
 * [🎯 The Plan](welcome-to-punksville/the-plan/README.md)
   * [💵 Use of Funds](welcome-to-punksville/the-plan/use-of-funds.md)
 * [❓ How it Works](welcome-to-punksville/how-it-works/README.md)
-  * [🧟♂ Minting](welcome-to-punksville/how-it-works/minting.md)
-  * [🧟♀ Staking](welcome-to-punksville/how-it-works/staking.md)
+  * [🧟♂ Minting](welcome-to-punksville/minting.md)
+  * [🧟♀ Staking](welcome-to-punksville/staking.md)
 * [👨👩👧👦 Meet the Team!](welcome-to-punksville/meet-the-team.md)
 
 ## 😎 New to NFTs
@@ -30,5 +30,7 @@
 ## ✅ Tokenomics & Governance
 
 * [🪙 Tokenomics](tokenomics-and-governance/tokenomics.md)
-* [📔 Governance](tokenomics-and-governance/governance.md)
-* [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
+* [📔 Governance](tokenomics-and-governance/governance/README.md)
+  * [On-Chain](tokenomics-and-governance/governance/on-chain.md)
+  * [✉ Proposals & Voting](tokenomics-and-governance/governance/proposals-and-voting.md)
+  * [Off-Chain](tokenomics-and-governance/governance/off-chain.md)
