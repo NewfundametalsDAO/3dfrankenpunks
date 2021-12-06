@@ -9,7 +9,7 @@ description: How we Intend to Use Funds Raised
 ### Curation Fees - 288 ETH&#x20;
 
 * 25% goes to the Artist 3DPunks
-* 25% goes to Engineering & Community Mods
+* 25% goes to Engineering & Core Team
 * 50% goes to pay admin costs&#x20;
 
 ### Punks Vaults - 500 ETH&#x20;
