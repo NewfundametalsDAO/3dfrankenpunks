@@ -16,5 +16,5 @@ We plan to use the fractional.art platform to vault and issue fractionalized tok
 
 Fractionlization requires the NFT owner to send their NFTs to a vault. This vault acts as a custodian for the NFT and mints tokens (ERC20) that makeup the governance of the asset in the vault.&#x20;
 
-![Source: Fractionl.art blog](../.gitbook/assets/image.png)
+![Source: Fractional.art blog](../.gitbook/assets/image.png)
 

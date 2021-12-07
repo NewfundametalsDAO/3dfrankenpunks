@@ -12,7 +12,7 @@ A key contributor to the direction and execution of the Punk Vaults DAO. They ar
 
 **Punksville Advisor will receive 250 $FRANKEN governance tokens**
 
-## **Punksville Citizen - Whitelist for Genesis Mint**
+## **Punksville Citizen - Whitelist for Genesis Mint & part of Community Governance**&#x20;
 
 This is the starting point for the Punksville community members. Each member who mints a genesis FrankenPunk will be automatically assigned as Punksville Citizen.&#x20;
 
