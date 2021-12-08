@@ -6,7 +6,7 @@ description: How we Intend to Use Funds Raised
 
 ## We Expect to raise \~888 ETH from the Genesis Mint
 
-### Curation Fees - 338 ETH&#x20;
+### Curation Fees - 350 ETH&#x20;
 
 * 25% goes to the Artist 3DPunks
 * 25% goes to Engineering & Core Team
@@ -16,6 +16,6 @@ description: How we Intend to Use Funds Raised
 
 * Used to Purchase Larva Labs Crypto Punks
 
-### Punksville DAO Treasury - 150 ETH  &#x20;
+### Punksville DAO Treasury - 138 ETH  &#x20;
 
 * Used to support the project, provide rewards to Punksville members, and provide base liquidity for the fractional vaults
