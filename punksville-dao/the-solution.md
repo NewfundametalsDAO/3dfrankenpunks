@@ -12,7 +12,7 @@ As we mentioned before, our DAO treasury will have multiple vaults, giving our c
 
 Our treasury is dedicated to only buying Larva Labs Crypto Punks, the most established blue chip NFT.
 
-We will be creating an **intelligent hierarchy.**&#x20;
+### We will be creating an **intelligent hierarchy.**&#x20;
 
 ![](<../.gitbook/assets/image (3).png>)
 
