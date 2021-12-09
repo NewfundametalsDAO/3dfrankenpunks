@@ -13,7 +13,7 @@ Minting is the process of creating Dr. ETHvils monstrosities. Simply put, it is 
 * 50% of the entire proceeds of the project are put into the DAO
 * Minting interface provided&#x20;
 
-## MINTING WEBSITE HERE
+## MINTING WEBSITE COMING SOON
 
 ## Contract Address:&#x20;
 
