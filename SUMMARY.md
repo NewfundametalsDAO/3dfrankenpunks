@@ -14,8 +14,9 @@
 
 * [💻 Getting set up!](new-to-nfts/getting-set-up.md)
 * [💸 How to buy Ethereum (ETH)](new-to-nfts/how-to-buy-ethereum-eth.md)
-* [⛏ How to Mint FrankenPunks](new-to-nfts/how-to-mint-frankenpunks.md)
 * [🔓 Security Best Practices (MUST READ!)](new-to-nfts/security-best-practices-must-read.md)
+* [🤞 Premint Access List](new-to-nfts/premint-access-list.md)
+* [⛏ How to Mint FrankenPunks](new-to-nfts/how-to-mint-frankenpunks.md)
 
 ## 🧪 PUNKSVILLE DAO
 
