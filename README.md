@@ -18,6 +18,8 @@ Join us in the riskiest game in NFT history thus far...
 
 ![](.gitbook/assets/meme1.jpg)
 
+### Rights of the FrankenPunk Holder
+
 As a member of Punksville you are recognized as a holder of at least 1 FrankenPunk and are entitled to the following rights:
 
 1. Contribute to project direction&#x20;
