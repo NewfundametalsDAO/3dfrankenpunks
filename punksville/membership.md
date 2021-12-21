@@ -6,6 +6,8 @@ description: The Roles of the DAO
 
 Below are the roles of the Punksville community. There are 3 tiers of  membership each with its own responsibilities and rewards.&#x20;
 
+You must hold 1 FrankenPunk NFT in order to be considered a member.
+
 ## **Punksville Advisor - Pre Launch**
 
 A key contributor to the direction and execution of the Punk Vaults DAO. They are early FrankPunks supporters and put in effort to help bring the project to life.
@@ -14,7 +16,7 @@ A key contributor to the direction and execution of the Punk Vaults DAO. They ar
 
 This is the starting point for the Punksville community members. Each member who mints a genesis FrankenPunk will be automatically assigned as Punksville Citizen.&#x20;
 
-Your responsibilities&#x20;
+Your responsibilities include&#x20;
 
 ## **Punks Vault Governor**&#x20;
 
