@@ -1,5 +1,5 @@
 ---
-description: The Rules of the Punk Vaults DAO.
+description: The Rules of the Community
 ---
 
 # 👋 Introduction
