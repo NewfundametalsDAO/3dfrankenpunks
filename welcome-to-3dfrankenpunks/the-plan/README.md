@@ -22,4 +22,4 @@ _75% Sold_ - Buy third punk and fractionalize it in in Punk Vault 3
 
 _100% Sold_ - Buy fourth punk and fractionalize it in Punk Vault 4
 
-**Post Sell-Out:** Transfer Vault 1 tokens, Vault 2 tokens, Vault 3 tokens, & Vault 4 tokens to the community governed gnosis wallet, airdrop $Franken to OG members and Genesis Minters, and release staking for all FrankenPunk Holders.
+**Post Sell-Out:** Transfer Vault 1 tokens, Vault 2 tokens, Vault 3 tokens, & Vault 4 tokens to the community governed gnosis wallet, release governance structure to community.
