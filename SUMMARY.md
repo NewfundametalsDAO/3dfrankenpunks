@@ -1,14 +1,15 @@
 # Table of contents
 
-## ⚡ Welcome to Punksville
+## ⚡ Welcome to 3DFrankenPunks
 
 * [👋 Introduction](README.md)
-* [🎯 The Plan](welcome-to-punksville/the-plan/README.md)
-  * [💵 Use of Funds](welcome-to-punksville/the-plan/use-of-funds.md)
-* [❓ How it Works](welcome-to-punksville/how-it-works/README.md)
-  * [🧟♂ Minting](welcome-to-punksville/minting.md)
-  * [🧟♀ Staking](welcome-to-punksville/staking.md)
-* [👨👩👧👦 Meet the Team!](welcome-to-punksville/meet-the-team.md)
+* [🎯 The Plan](welcome-to-3dfrankenpunks/the-plan/README.md)
+  * [💵 Use of Funds](welcome-to-3dfrankenpunks/the-plan/use-of-funds.md)
+* [❓ How it Works](welcome-to-3dfrankenpunks/how-it-works/README.md)
+  * [🧟♂ Minting](welcome-to-3dfrankenpunks/how-it-works/minting.md)
+  * [🏵 Community Governed Wallet](welcome-to-3dfrankenpunks/how-it-works/community-governed-wallet.md)
+  * [🧟♀ Staking (Coming Soon) ](welcome-to-3dfrankenpunks/how-it-works/staking-coming-soon.md)
+* [👨👩👧👦 Meet the Team!](welcome-to-3dfrankenpunks/meet-the-team.md)
 
 ## 😎 New to NFTs
 
@@ -18,20 +19,18 @@
 * [🤞 Premint Access List](new-to-nfts/premint-access-list.md)
 * [⛏ How to Mint FrankenPunks](new-to-nfts/how-to-mint-frankenpunks.md)
 
-## 🧪 PUNKSVILLE DAO
+## 🧪 PUNKSVILLE&#x20;
 
-* [👾 Mission](punksville-dao/mission.md)
-* [❗ The Problem With DAOs](punksville-dao/the-problem-with-daos.md)
-* [👌 The Solution](punksville-dao/the-solution.md)
-* [🎟 Membership](punksville-dao/membership.md)
-* [🏦 Fractionalized Vaults](punksville-dao/fractionalized-vaults.md)
-* [💰 Treasury Management](punksville-dao/treasury-management.md)
-* [⚒ Tools](punksville-dao/tools.md)
+* [👾 Mission](punksville/mission/README.md)
+  * [📔 Punksville Bill of Rights](punksville/mission/punksville-bill-of-rights.md)
+* [💰 Franken Bank Community Treasury](punksville/franken-bank-community-treasury.md)
+* [🎟 Membership](punksville/membership.md)
+* [⚒ Tools](punksville/tools.md)
 
 ## ✅ Tokenomics & Governance
 
-* [🪙 Tokenomics](tokenomics-and-governance/tokenomics.md)
 * [📔 Governance](tokenomics-and-governance/governance.md)
   * [📨 Community](tokenomics-and-governance/governance/community.md)
   * [⛓ High-Council](tokenomics-and-governance/governance/high-council.md)
   * [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
+* [🪙 Tokenomics (On-Hold)](tokenomics-and-governance/tokenomics-on-hold.md)

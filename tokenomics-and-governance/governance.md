@@ -12,7 +12,12 @@ The Punksville community requires a solid governance structure that ensures the 
 
 ### Governance is Divided into two categories:
 
-#### 1. Community - proposes and votes on broad based strategy for 1 punks vault&#x20;
+#### Community - proposes and votes on broad based strategy for 1 punks vault&#x20;
 
-#### 2. High Council - Core Team Members and elected Stakeholders&#x20;
+1. **Governors**&#x20;
+2. **Citizens**&#x20;
+
+#### High Council - Ratifies&#x20;
+
+#### Core Team Members and elected Stakeholders&#x20;
 

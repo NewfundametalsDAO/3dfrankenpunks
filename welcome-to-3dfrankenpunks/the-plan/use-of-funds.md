@@ -16,6 +16,6 @@ description: How we Intend to Use Funds Raised
 
 * Used to Purchase Larva Labs Crypto Punks
 
-### Punksville DAO Treasury - 138 ETH  &#x20;
+### "Franken Bank" Community Treasury - 138 ETH  &#x20;
 
-* Used to support the project, provide rewards to Punksville members, and provide base liquidity for the fractional vaults
+* Used to support the project, provide rewards to Punksville members, and provide base liquidity for community sourced initiatives.

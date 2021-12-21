@@ -4,19 +4,15 @@ description: The Roles of the DAO
 
 # 🎟 Membership
 
-Below are the roles of the Punksville community. There are 3 tiers of DAO membership each with its own responsibilities and rewards.&#x20;
+Below are the roles of the Punksville community. There are 3 tiers of  membership each with its own responsibilities and rewards.&#x20;
 
 ## **Punksville Advisor - Pre Launch**
 
 A key contributor to the direction and execution of the Punk Vaults DAO. They are early FrankPunks supporters and put in effort to help bring the project to life.
 
-****
-
 ## **Punksville Citizen - Whitelist for Genesis Mint & part of Community Governance**&#x20;
 
 This is the starting point for the Punksville community members. Each member who mints a genesis FrankenPunk will be automatically assigned as Punksville Citizen.&#x20;
-
-
 
 ## **Punks Vault Governor**&#x20;
 
