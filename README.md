@@ -8,7 +8,7 @@ description: The Rules of the Punk Vaults DAO.
 
 ### **10,000 Generative FrankenPunks at 0.088 ETH each**
 
-Dr Ethvil is a mad genius that has created the FrankenPunks from the Punk Trash amidst the chilling NFT winter. These punks have been taken for a devilish deed... THEY WILL BE FUSED INTO CRAZY CRYPTOPUNK DAO CONCEPT
+Dr Ethvil is a mad genius that has created the FrankenPunks from the Punk Trash amidst the chilling NFT winter. These punks have been taken for a devilish deed...
 
 This is a great opportunity... but with opportunity comes DANGER.&#x20;
 
@@ -18,17 +18,23 @@ Join us in the riskiest game in NFT history thus far...
 
 ![](.gitbook/assets/meme1.jpg)
 
-## How it Works
+As a member of Punksville you are recognized as a holder of at least 1 FrankenPunk and are entitled to the following rights:
 
-1. Participate in the Genesis Mint&#x20;
-2. Stake your Genesis Mint in our staking contract&#x20;
-3. Receive staking reputation tokens
-4. Accumulate rewards to vote on the strategy of  Punk Vaults
+1. Contribute to project direction&#x20;
+2. Propose how to use community funds &#x20;
+3. Set the floor price of CryptoPunks
+4. Be a passive member by delegating your decisions/votes to governors Vote leaders to be promoted to High Council and Governor roles&#x20;
+5. Hold Leaders and other community members accountable&#x20;
+6. Sell your FrankenPunk and leave the community
+
+Our vision is to create a project focused on growing the FrankenPunks brand through a collaborative and community driven approach.
+
+Everyone who owns a FrankenPunk has the ability to be heard!
 
 ### What do you receive as a community member of Punksville?
 
 1. The right to propose and vote on the reserve price of Larva Labs Punks
-2. Access to the Punks DAO and associated vaults
+2. Governance over community funds and associated vaults
 3. Voting rights based on the number of rewards tokens generated
 4. Setting the **reserve price of each Punk Vault**
 5. Access to exclusive member-only channels
