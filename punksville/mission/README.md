@@ -10,5 +10,5 @@ The purpose of the "Punksville" and the "Franken Bank"  is to give emerging coll
 
 Punksville is the collective term for any holder of a FrankenPunk NFT.&#x20;
 
-**Our number one goal with this project is to build a strong community  and source ideas from the community to build a "Blue Chip" NFT brand.**&#x20;
+**Our number one goal with this project is to build a strong community  and source experimental ideas from the community to build a "Blue Chip" NFT brand.**&#x20;
 
