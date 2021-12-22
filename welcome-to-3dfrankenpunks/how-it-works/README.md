@@ -28,7 +28,7 @@ Through community sourced voting and approval process we believe that we can cre
 
 We are turning the responsibility for project direction over to our community through a governance process that allows for movement throughout the levels of governance.&#x20;
 
-1. &#x20;Citizen - Holds a FrankenPunk
+1. &#x20;Citizen - Holds a FrankenPunk & Proposes experiments&#x20;
 2. Governor - Holds a FrankenPunk and demonstrates leadership and the necessary skill to advance the project&#x20;
 3. High Council - Founders & Core Team.&#x20;
    1. Will hold elections for term limited service that consists of 2 Governors and 1 Citizen
