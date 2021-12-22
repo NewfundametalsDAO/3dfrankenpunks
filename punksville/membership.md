@@ -1,5 +1,5 @@
 ---
-description: The Roles of the DAO
+description: The Roles of the Community
 ---
 
 # 🎟 Membership
