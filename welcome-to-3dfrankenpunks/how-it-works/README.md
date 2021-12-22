@@ -16,7 +16,7 @@ Through community sourced voting and approval process we believe that we can cre
 
 **Treat your fellow Frankens with respect. We are intolerant of negative and abusive behavior, we won’t hesitate to punish toxicity. When we are discussing proposals and the project’s direction, we should all maintain a high level of respect and understanding to everyone regardless of their opinions.**&#x20;
 
-* **Sustainability**&#x20;
+* **Responsibility**&#x20;
 
 **Responsibility is integral to the project’s future. Which is why we will be extra careful with how we use the funds and we will not be taking unnecessary risks that could jeopardize the project’s success.**&#x20;
 
