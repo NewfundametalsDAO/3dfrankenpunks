@@ -6,18 +6,23 @@ description: How Decisions are made in the Punksville DAO
 
 ### How FrankenPunks Governance Works
 
-The Punksville community requires a solid governance structure that ensures the longevity of the FrankenPunks community&#x20;
+The Punksville community requires a solid governance structure that ensures community proposed solutions .
 
+In order for this to happen we have implemented an accountable governance structure in order to ensure the longevity of the community.&#x20;
 
+_**This structure will serve as v.1 of what we intend to formalize under a tokenized legal structure.** _&#x20;
 
-### Governance is Divided into two categories:
+### Responsibilities of Members:
 
-#### Community - proposes and votes on broad based strategy for 1 punks vault&#x20;
+#### Community - Proposes and votes on broad based strategy for "FrankenBank" & CryptoPunk Vaults
 
-1. **Governors**&#x20;
-2. **Citizens**&#x20;
+* **Governors** - check quality of citizen experiments and enact consensus amongst governors
+* **Citizens** - propose experiments and champion representatives to the high council&#x20;
 
-#### High Council - Ratifies&#x20;
+#### High Council - Engages with community and performs experiments&#x20;
 
-#### Core Team Members and elected Stakeholders&#x20;
+#### Core Team Members and elected Stakeholders from the Governors and Citizens&#x20;
 
+### How Experiments are Run?
+
+Frankenpunks is structured as a community run project and with that&#x20;
