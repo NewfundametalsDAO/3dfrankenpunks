@@ -23,7 +23,7 @@
 
 * [👾 Mission](punksville/mission/README.md)
   * [📔 Punksville Bill of Rights](punksville/mission/punksville-bill-of-rights.md)
-* [💰 Franken Bank Community Treasury](punksville/franken-bank-community-treasury.md)
+* [💰 "Franken Bank" Community Treasury](punksville/franken-bank-community-treasury.md)
 * [🎟 Membership](punksville/membership.md)
 * [⚒ Tools](punksville/tools.md)
 
