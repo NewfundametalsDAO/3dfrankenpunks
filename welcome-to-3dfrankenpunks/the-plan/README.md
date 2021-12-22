@@ -4,7 +4,7 @@ description: How are we different from other DAOs?
 
 # 🎯 The Plan
 
-This is **NOT** your average **DAO** project and we're doing a few things different to fix the holes we've seen from community governed projects of the past.
+This is not your average NFT project and we're doing a few things different to fix the holes we've seen from community governed projects of the past.
 
 Like our predecessors, our primary goal of the project is to lower the barriers of entry to "**Blue Chip**" NFTs and grant full governance/ownership. Similarly, we start by fractionalizing the NFTs themselves.
 
