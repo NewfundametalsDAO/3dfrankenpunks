@@ -1,5 +1,5 @@
 ---
-description: How Decisions are made in the Punksville DAO
+description: How Decisions are made in the Punksville
 ---
 
 # 📔 Governance
