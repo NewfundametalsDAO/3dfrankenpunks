@@ -12,7 +12,7 @@ In order for this to happen we have implemented an accountable governance struct
 
 _**This structure will serve as v.1 of what we intend to formalize under a tokenized legal structure.** _&#x20;
 
-### Responsibilities of Members:
+### Responsibilities of Members
 
 #### Community - Proposes and votes on broad based strategy for "FrankenBank" & CryptoPunk Vaults
 
