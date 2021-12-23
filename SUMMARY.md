@@ -33,4 +33,4 @@
   * [📨 Community](tokenomics-and-governance/governance/community.md)
   * [⛓ High-Council](tokenomics-and-governance/governance/high-council.md)
   * [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
-* [🪙 Tokenomics (On-Hold)](tokenomics-and-governance/tokenomics-on-hold.md)
+* [🪙 Tokenomics (Coming Soon)](tokenomics-and-governance/tokenomics-coming-soon.md)
