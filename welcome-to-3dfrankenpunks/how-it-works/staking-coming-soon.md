@@ -12,7 +12,7 @@ DAOs have allowed users to stake their tokens and in return, earn more governanc
 
 ### How Can You Stake?
 
-We have decided to pause the staking portion of our project as we remain committed to building a strong community.
+We will be implementing staking in Phase II as we work toward a proper tokenized governance structure.
 
 This will be coming very soon!
 
