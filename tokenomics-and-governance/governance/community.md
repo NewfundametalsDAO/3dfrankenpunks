@@ -6,5 +6,5 @@ description: What is Community Governance
 
 ## What is "Community" Governance?
 
-Community governance is a collective term used to define the&#x20;
+Community governance is a collective term used to define the process of creating and approving an "experiment". The approval of the community "experiment"&#x20;
 
