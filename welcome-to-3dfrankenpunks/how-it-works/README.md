@@ -10,6 +10,14 @@ We believe that our community is everything. A strong community is the backbone 
 
 Through community sourced voting and approval process we believe that we can create value for all holders.&#x20;
 
+### Run Experiments
+
+We are handing the Responsibility of Punksville and the "FrankenTower" vaults over to our community members.&#x20;
+
+It is the right of all FrankenPunk NFT holders to put forward ideas in the form of "Franken Experiments"
+
+In order for these experiments to be a success they must first pass a rigorous testing phase &#x20;
+
 ### Franken Values and Goals
 
 * **Community**&#x20;
