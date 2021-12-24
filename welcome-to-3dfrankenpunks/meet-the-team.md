@@ -20,15 +20,19 @@ A youtube personality and content creator. A fearless leader and a great man. Al
 
 A world-renowned artist who specializes in 3D design. A man who lives halfway across the world, but two inches from our hearts.&#x20;
 
-**Victor** (Core Team)
+**James Dobry** (Core Team)
 
-A true jack of all trades. He is a practicing Doctor, DJ, and Degen. His team is creating our staking contract. When he's not being a boss, he enjoys long walks on the beach, a nice Chicago frank, and a cold beer.
+Lead front end developer. Expert in the art of whiskey and CSS. All around good guy
 
 **John** (Core Team)
 
 Husband. Girldad. Restaurateur. Degen.&#x20;
 
 Going to open the first steakhouse in the Metaverse “WAGMI MEATS”
+
+**Victor** (Launch Team)
+
+A true jack of all trades. He is a practicing Doctor, DJ, and Degen. His team is creating our staking contract. When he's not being a boss, he enjoys long walks on the beach, a nice Chicago frank, and a cold beer.
 
 **Michael** (Launch Team)
 
