@@ -66,6 +66,6 @@ If any term or provision of this Agreement is invalid, illegal, or unenforceable
 
 **14. Contact Us**&#x20;
 
-If you have any questions or concerns, including if you need to access this Agreement in an alternative format, we encourage you to contact us via e-mail at 3DFPCompliance@xyz.net&#x20;
+If you have any questions or concerns, including if you need to access this Agreement in an alternative format, we encourage you to contact us.
 
 &#x20;
