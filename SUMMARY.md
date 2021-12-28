@@ -34,3 +34,7 @@
   * [⛓ High-Council](tokenomics-and-governance/governance/high-council.md)
   * [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
 * [🪙 Tokenomics (Coming Soon)](tokenomics-and-governance/tokenomics-coming-soon.md)
+
+## 🛑 Terms & Conditions
+
+* [3D FrankenPunk NFTs](terms-and-conditions/3d-frankenpunk-nfts.md)
