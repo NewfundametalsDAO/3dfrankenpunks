@@ -14,12 +14,12 @@ Like our predecessors, our primary goal of the project is to lower the barriers 
 
 ## Our Milestones
 
-_25% Sold_ - Buy first punk and fractionalize it in Punk Vault 1
+_25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 35 ETH to Punskville "Franken Bank".&#x20;
 
-_50% Sold_ - Buy second punk and fractionalize it in Punk Vault 2
+_50% Sold_ - Buy second punk and transfer it to Punk Vault 2 Add 35 ETH Punksville "Franken Bank".
 
-_75% Sold_ - Buy third punk and fractionalize it in in Punk Vault 3
+_75% Sold_ - Buy third punk and transfer it to Punk Vault 3. Add 35 ETH to Punksville community wallet.&#x20;
 
-_100% Sold_ - Buy fourth punk and fractionalize it in Punk Vault 4
+_100% Sold_ - Buy fourth punk and transfer it to Punk Vault 4. Add 35 ETH to Punksville commnity wallet.
 
-**Post Sell-Out:** Transfer Vault 1 tokens, Vault 2 tokens, Vault 3 tokens, & Vault 4 tokens to the community governed gnosis wallet, release community governance.
+**Post Sell-Out:** Establish CryptoPunk Vaults & "Franken Bank"
