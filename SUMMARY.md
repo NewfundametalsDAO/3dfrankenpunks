@@ -37,4 +37,4 @@
 
 ## 🛑 Terms & Conditions
 
-* [📅 3D FrankenPunk NFTs](terms-and-conditions/3d-frankenpunk-nfts.md)
+* [😈 3D FrankenPunk NFTs](terms-and-conditions/3d-frankenpunk-nfts.md)
