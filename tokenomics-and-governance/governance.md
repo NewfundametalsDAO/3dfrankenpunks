@@ -16,6 +16,8 @@ Frankenpunks is structured as a community run project and with that citizens hav
 
 In order for a experiment to take place it must first qualify and pass the community checks.&#x20;
 
+Dr. ETHvil performs the experiments, the community proposes them.
+
 ## 3 Pillars of Punksville
 
 ### 1. Proposals (Creating Experiments)
