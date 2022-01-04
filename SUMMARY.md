@@ -30,7 +30,8 @@
 ## ✅ Tokenomics & Governance
 
 * [📔 Governance](tokenomics-and-governance/governance.md)
-  * [📨 Community](tokenomics-and-governance/governance/community.md)
+  * [📨 Proposals](tokenomics-and-governance/governance/proposals/README.md)
+    * [🎒 Vault Proposals](tokenomics-and-governance/governance/proposals/vault-proposals.md)
   * [⛓ High-Council](tokenomics-and-governance/governance/high-council.md)
   * [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
 * [🪙 Tokenomics (Coming Soon)](tokenomics-and-governance/tokenomics-coming-soon.md)
