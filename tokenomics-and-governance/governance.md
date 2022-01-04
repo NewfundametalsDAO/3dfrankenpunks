@@ -40,4 +40,6 @@ High Council Role – The High Council is not responsible for making proposals, 
 
 High Council Agents – The High Council shall have the authority to appoint and engage Agents, Assistants, ETHvil Minions, and any other form of help to successfully run experiments.&#x20;
 
-###
+### 3. Dispute Resolution&#x20;
+
+Dispute resolution is the final pillar of governance required to organize a long-lasting and successful community. The community makes proposals in the Legislative Branch, community proposals are acted on in the Executive Branch, but to the extent that disputes arise between Citizens, Governors, Ministers, High Council members or their Agents and Executive Organizations, a dispute resolution process shall be used to settle all disputes within Punksville. Any resolution reached by the dispute resolution process shall be final and will not have the possibility of appeal.
