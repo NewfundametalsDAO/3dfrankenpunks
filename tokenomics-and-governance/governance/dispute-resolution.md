@@ -6,8 +6,6 @@ description: How Issues are Resolved
 
 ### Dispute Resolution &#x20;
 
-Dispute resolution is the final pillar of governance required to organize a long-lasting and successful community.&#x20;
-
 **Any resolution reached by the dispute resolution process shall be final and will not have the possibility of appeal.**
 
 ### **Arbiters of Wisdom**&#x20;
