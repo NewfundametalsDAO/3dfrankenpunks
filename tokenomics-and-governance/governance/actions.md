@@ -2,6 +2,5 @@
 description: How High Council Governance Works
 ---
 
-# ⛓ High-Council
+# 🤠 Actions
 
-Coming Soon
