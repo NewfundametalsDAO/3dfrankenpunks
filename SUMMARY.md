@@ -33,7 +33,7 @@
   * [📨 Proposals](tokenomics-and-governance/governance/proposals/README.md)
     * [🎒 Vault Proposals](tokenomics-and-governance/governance/proposals/vault-proposals.md)
   * [🤠 Actions](tokenomics-and-governance/governance/high-council.md)
-  * [✉ Proposals & Voting](tokenomics-and-governance/proposals-and-voting.md)
+  * [👿 Dispute Resolution](tokenomics-and-governance/governance/dispute-resolution.md)
 * [🪙 Tokenomics (Coming Soon)](tokenomics-and-governance/tokenomics-coming-soon.md)
 
 ## 🛑 Terms & Conditions
