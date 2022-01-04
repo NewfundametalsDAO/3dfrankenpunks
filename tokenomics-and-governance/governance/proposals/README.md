@@ -16,3 +16,6 @@ If a proposal to use the community wallet funds has less than 50% of the communi
 
 &#x20;The High Council shall have the authority to appoint and engage Agents, Assistants, ETHvil Minions, and any other form of help to successfully run experiments. These Agents may be designated roles in different sub-entity structures, called Executive Organizations, such as development, creative arts, merchandise, sales, marketing, etc. The High Council shall have the authority, but not the duty to create as many Executive Organizations as they deem necessary to carry out the experiments.
 
+### Detailed Community Proposal Flow
+
+![3D FrankenPunks ](<../../../.gitbook/assets/3DFP Governance - Frame 1.jpg>)
