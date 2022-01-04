@@ -18,4 +18,4 @@ If a proposal to use the community wallet funds has less than 50% of the communi
 
 ### Detailed Community Proposal Flow
 
-![3D FrankenPunks ](<../../../.gitbook/assets/3DFP Governance - Frame 1.jpg>)
+![3D FrankenPunks Community Wallet](<../../../.gitbook/assets/3DFP Governance - Frame 1 (1).jpg>)
