@@ -14,4 +14,5 @@ Vault 1 represents 3D Frankenpunks 1-2500. Vault 2 represents 3D Frankenpunks 25
 
 Citizens of each respective Principality shall be able to make Vault Proposals for the vaults their Principality holds to their Ministers. A two-third’s vote shall be required for their Minister to approve or reject a Vault Proposal. If a Minister approves a Vault Proposal, they shall have the executive authority to act on the proposal in accordance with the will of the Citizens of their Principality, except in issues where the proposal is to liquidate the vaulted CryptoPunk. In the case that a Principality Vault Proposal is to liquidate a vaulted CryptoPunk, the Minister of such Principality shall bring the proposal to the High-Council to be voted on for approval.
 
-![](<../../../.gitbook/assets/3DFP Governance - Frame 2.jpg>)
+![](<../../../.gitbook/assets/3DFP Governance - Frame 2 (2).jpg>)
+
