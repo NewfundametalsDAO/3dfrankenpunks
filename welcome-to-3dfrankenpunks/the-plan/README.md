@@ -6,7 +6,7 @@ description: How are we different from other DAOs?
 
 This is not your average NFT project and we're doing a few things different to fix the holes we've seen from community governed projects of the past.
 
-Like our predecessors, our primary goal of the project is to lower the barriers of entry to "**Blue Chip**" NFTs and grant full governance/ownership. Similarly, we start by fractionalizing the NFTs themselves.
+Like our predecessors, our primary goal of the project is to lower the barriers of entry to "**Blue Chip**" NFTs and grant full governance/ownership.&#x20;
 
 **Coming Soon: A token called $FRANKEN will act as a reputational/governance token for the project. This on-chain incentive system is asset backed by the value and Performance of the Punks Vaults and Treasury. We plan to explore a tokenized legal structure at a later date.**&#x20;
 
