@@ -16,7 +16,7 @@ Like our predecessors, our primary goal of the project is to lower the barriers 
 
 _25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 72 ETH to Punksville community wallet.
 
-_50% Sold_ - Buy second punk and transfer it to Punk Vault 2 Add 72 ETH Punksville community wallet.
+_50% Sold_ - Buy second punk and transfer it to Punk Vault 2. Add 72 ETH Punksville community wallet.
 
 _75% Sold_ - Buy third punk and transfer it to Punk Vault 3. Add 72 ETH to Punksville community wallet.&#x20;
 
