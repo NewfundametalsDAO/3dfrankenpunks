@@ -14,12 +14,12 @@ Like our predecessors, our primary goal of the project is to lower the barriers 
 
 ## Our Milestones
 
-_25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 72 ETH to Punskville "Franken Bank".&#x20;
+_25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 72 ETH to Punksville community wallet.
 
-_50% Sold_ - Buy second punk and transfer it to Punk Vault 2 Add 72 ETH Punksville "Franken Bank".
+_50% Sold_ - Buy second punk and transfer it to Punk Vault 2 Add 72 ETH Punksville community wallet.
 
 _75% Sold_ - Buy third punk and transfer it to Punk Vault 3. Add 72 ETH to Punksville community wallet.&#x20;
 
-_100% Sold_ - Buy fourth punk and transfer it to Punk Vault 4. Add 72 ETH to Punksville commnity wallet.
+_100% Sold_ - Buy fourth punk and transfer it to Punk Vault 4. Add 72 ETH to Punksville community wallet.
 
 **Post Sell-Out:** Transfer Punk Vault tokens to the community governed gnosis wallet and release proposal system for Citizens to propose and approve uses of the community wallet and Punk Vaults.
