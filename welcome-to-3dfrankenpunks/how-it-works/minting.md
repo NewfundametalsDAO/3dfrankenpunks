@@ -13,7 +13,7 @@ Minting is the process of creating Dr. ETHvils monstrosities. Simply put, it is 
 * 50% of the entire proceeds of the project are put into the DAO
 * Minting interface provided&#x20;
 
-## MINTING WEBSITE COMING SOON
+## [MINTING WEBSITE](https://app.3dfrankenpunks.com/mint)
 
 ## Contract Address:&#x20;
 
