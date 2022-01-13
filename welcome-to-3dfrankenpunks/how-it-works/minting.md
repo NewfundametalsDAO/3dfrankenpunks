@@ -17,5 +17,5 @@ Minting is the process of creating Dr. ETHvils monstrosities. Simply put, it is 
 
 ## Contract Address:&#x20;
 
-Coming Soon&#x20;
+[https://etherscan.io/address/0x1FEC856e25F757FeD06eB90548B0224E91095738](https://etherscan.io/address/0x1FEC856e25F757FeD06eB90548B0224E91095738)
 
