@@ -6,4 +6,4 @@ description: Official Minting Directions
 
 The official minting instructions will be released soon! We have set up the minting contract but are going through our Rinkeby test right now. For now, feel free to visit the landing page that we set up.
 
-### Official Minting Site - COMING SOON
+### Official Minting Site - [https://app.3dfrankenpunks.com/mint](https://app.3dfrankenpunks.com/mint)
