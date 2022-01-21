@@ -6,7 +6,7 @@ description: How Decisions are made in the Punksville
 
 ### How FrankenPunks Governance Works
 
-_**This structure will serve as v.1 of what we intend to formalize under a tokenized legal structure (DAO).** _&#x20;
+_**This structure will serve as v.1 of what we intend to formalize under a community governance structure.**_
 
 ## Experiments
 
