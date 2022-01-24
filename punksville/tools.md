@@ -6,7 +6,5 @@ description: Tools used to manage the Punks Vault
 
 ### Treasury Management- Gnosis Safe Multi-Sig
 
-### General Proposals - Discourse (COMING SOON)
-
-### Proposal Voting - Snapshot.org (COMING SOON)
+### Proposal Voting [https://snapshot.org/#/punksville.eth](https://snapshot.org/#/punksville.eth)
 
