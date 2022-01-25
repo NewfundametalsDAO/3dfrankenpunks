@@ -6,7 +6,7 @@ description: How High Council Governance Works
 
 ### High Council&#x20;
 
-The High Council is not responsible for making proposals, but for enacting experiments.&#x20;
+The High Council is responsible for enacting experiments.&#x20;
 
 &#x20;9 High Council members review proposals that are on-chain, and either approve or veto the proposal.&#x20;
 
