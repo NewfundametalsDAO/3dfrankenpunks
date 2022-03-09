@@ -12,14 +12,11 @@ Like our predecessors, our primary goal of the project is to lower the barriers 
 
 ![](../../.gitbook/assets/meme2.jpg)
 
-## Our Milestones
+## Pre Mint Milestones (COMPLETED JAN 2022)
 
-_25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 72 ETH to Punksville community wallet.
+* [x] _25% Sold_ - Buy first punk and transfer it to Punk Vault 1. Add 72 ETH to Punksville community wallet.&#x20;
+* [x] _50% Sold_ - Buy second punk and transfer it to Punk Vault 2. Add 72 ETH Punksville community wallet.
+* [x] _75% Sold_ - Buy third punk and transfer it to Punk Vault 3. Add 72 ETH to Punksville community wallet.&#x20;
+* [x] _100% Sold_ - Buy fourth punk and transfer it to Punk Vault 4. Add 72 ETH to Punksville community wallet.
+* [x] **Post Sell-Out:** Transfer Punk Vault tokens to the community governed gnosis wallet and release proposal system for Citizens to propose and approve uses of the community wallet and Punk Vaults.
 
-_50% Sold_ - Buy second punk and transfer it to Punk Vault 2. Add 72 ETH Punksville community wallet.
-
-_75% Sold_ - Buy third punk and transfer it to Punk Vault 3. Add 72 ETH to Punksville community wallet.&#x20;
-
-_100% Sold_ - Buy fourth punk and transfer it to Punk Vault 4. Add 72 ETH to Punksville community wallet.
-
-**Post Sell-Out:** Transfer Punk Vault tokens to the community governed gnosis wallet and release proposal system for Citizens to propose and approve uses of the community wallet and Punk Vaults.
