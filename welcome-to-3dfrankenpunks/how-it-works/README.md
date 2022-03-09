@@ -10,13 +10,9 @@ We believe that our community is everything. A strong community is the backbone 
 
 Through community sourced voting and approval process we believe that we can create value for all holders.&#x20;
 
-### Run Experiments
+### Reward our Community&#x20;
 
-We are handing the Responsibility of Punksville and the "FrankenTower" vaults over to our community members.&#x20;
-
-It is the right of all FrankenPunk NFT holders to put forward ideas in the form of "Franken Experiments"
-
-In order for these experiments to be a success they must first pass a rigorous testing phase &#x20;
+(coming soon)
 
 ### Franken Values and Goals
 
@@ -41,10 +37,7 @@ We are turning the responsibility for project direction over to our community th
 2. Governor - Elected Official in Punksville
    * Holds a FrankenPunk and demonstrates leadership and the necessary skill to advance the project&#x20;
 3. High Council - Founders/Core Team & Community Delegates
-   * Multi-Sig holder and Executes "experiments"
-     *   Will hold elections for community representatives&#x20;
-
-         * &#x20;Consists of 2 Governors and 1 Citizen with term limits&#x20;
+   *   Multi-Sig holder and Executes "experiments"
 
 
 
