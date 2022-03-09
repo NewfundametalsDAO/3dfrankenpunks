@@ -9,7 +9,6 @@
 * [❓ How it Works](welcome-to-3dfrankenpunks/how-it-works/README.md)
   * [🧟♂ Minting](welcome-to-3dfrankenpunks/how-it-works/minting.md)
   * [🏵 Community Governed Wallet](welcome-to-3dfrankenpunks/how-it-works/community-governed-wallet.md)
-  * [🧟♀ Staking (Coming Soon) ](welcome-to-3dfrankenpunks/how-it-works/staking-coming-soon.md)
 * [👨👩👧👦 Meet the Team!](welcome-to-3dfrankenpunks/meet-the-team.md)
 
 ## 😎 New to NFTs
