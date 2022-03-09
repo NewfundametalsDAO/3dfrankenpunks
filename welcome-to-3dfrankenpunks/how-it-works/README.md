@@ -41,10 +41,7 @@ We are turning the responsibility for project direction over to our community th
 2. Governor - Elected Official in Punksville
    * Holds a FrankenPunk and demonstrates leadership and the necessary skill to advance the project&#x20;
 3. High Council - Founders/Core Team & Community Delegates
-   * Multi-Sig holder and Executes "experiments"
-     *   Will hold elections for community representatives&#x20;
-
-         * &#x20;Consists of 2 Governors and 1 Citizen with term limits&#x20;
+   *   Multi-Sig holder and Executes "experiments"
 
 
 
