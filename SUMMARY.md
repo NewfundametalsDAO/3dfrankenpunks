@@ -4,6 +4,7 @@
 
 * [👋 Introduction](README.md)
 * [🎯 The Plan](welcome-to-3dfrankenpunks/the-plan/README.md)
+  * [🛣 Roadmap](welcome-to-3dfrankenpunks/the-plan/roadmap.md)
   * [💵 Use of Funds](welcome-to-3dfrankenpunks/the-plan/use-of-funds.md)
 * [❓ How it Works](welcome-to-3dfrankenpunks/how-it-works/README.md)
   * [🧟♂ Minting](welcome-to-3dfrankenpunks/how-it-works/minting.md)
