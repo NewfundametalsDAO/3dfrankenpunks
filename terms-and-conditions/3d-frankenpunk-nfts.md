@@ -46,7 +46,7 @@ ii. Commercial Use. Subject to your continued compliance with these Terms, we ma
 
 To the extent the 3DFP, Name and Likeness, or Art contains Third Party IP you understand and agree as follows: (i) that you will not have the right to use such Third Party IP in any way except as incorporated in the Art, and subject to the license and restrictions contained herein; (ii) that, depending on the nature of the license granted from the owner of the Third Party IP, we may need to pass through additional terms and/or restrictions on your ability to use the Art; and (iii) to the extent that we inform you of such additional restrictions in writing, you will be responsible for complying with all such restrictions from the date that you receive the notice, and that failure to do so will be deemed a breach of this Agreement.&#x20;
 
-We reserve all rights related to the Art and Name and Likeness, including but not limited to copyright and trademark, associated with Dr. ETHvil™, ElizabETH™, Punksville™, FrankenBank™, FrankenPunk™, and 3D FrankenPunk™.
+We reserve all rights related to the Art and Name and Likeness, including but not limited to copyright and trademark, associated with Dr. ETHvil™, ElizabETH™, Punksville™, FrankenBank™, FrankenPunk™, and 3D FrankenPunk™, FrankenTV.
 
 The restrictions in this Section 4 will survive the expiration or termination of this Agreement.&#x20;
 
