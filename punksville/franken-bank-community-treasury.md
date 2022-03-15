@@ -6,7 +6,7 @@ description: Community Managed Wallet & Funds
 
 ### FrankenBank Overview
 
-Aside from the Larva Labs' CryptoPunks and other NFTs that will be held in our Punks Vault, the FrankenPunk team will also be setting aside >100ETH into a Treasury for use by the community. Purchasing assets is one value add, but setting aside ETH for the community to use to grow, develop, and pursue new goals is also very important to us.&#x20;
+Aside from the Larva Labs' CryptoPunks and other NFTs that will be held in our Punks Vault, the FrankenPunk team committed 800ETH into a Treasury for use by the community. Purchasing assets is one value add, but setting aside ETH for the community to use to grow, develop, and pursue new goals is also very important to us.&#x20;
 
 ### What will the Treasury be used for?
 
